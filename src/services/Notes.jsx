@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const baseUrl = 'http://localhost:3001/api/notes'  // URL de la API
+const baseUrl = 'https://backend2-oime.onrender.com/api/notes'  // URL de la API
 
 
 const getAll = () => {
